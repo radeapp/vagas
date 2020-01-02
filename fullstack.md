@@ -13,7 +13,6 @@ Remoto ou Escritório, Caruaru - Pernambuco
 #### Diferenciais
 
 - Horário livre
-- Frigobar cheio :P
 - Açaí uma vez por semana (no escritório)
 
 ## Requisitos
@@ -32,9 +31,8 @@ Remoto ou Escritório, Caruaru - Pernambuco
 
 A combinar, até R$ 3000,00.
 
-1. Análise de currículo
-2. Proposta e solução de desafio
-3. Bate-papo em vídeo chamada
+1. Análise de currículo (CV, LinkedIn e GitHub)
+2. Bate-papo em vídeo chamada
 
 ## Nossa empresa
 
@@ -43,10 +41,10 @@ Somos pioneiros na produção e tratamento destes dados.
 
 **Aqui usamos:**
 - Ruby on Rails
-- Veu.js (Vuetify)
+- Vue.js (Vuetify)
 - React Native
 - AWS
 
 ## Como se candidatar
 
-Por favor envie um email para fabio@radeapp.com com seu CV anexado - enviar no assunto: **Vaga Fullstack - <Seu Nome>**
+Por favor envie um email para fabio@radeapp.com com seu CV anexado e seus links (se tiver) para **Linkedin** e **GitHub** - enviar no assunto: **Vaga Fullstack - (Seu Nome)**
