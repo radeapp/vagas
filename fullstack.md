@@ -47,4 +47,4 @@ Somos pioneiros na produção e tratamento destes dados.
 
 ## Como se candidatar
 
-Por favor envie um email para fabio@radeapp.com com seu CV anexado e seus links (se tiver) para **Linkedin** e **GitHub** - enviar no assunto: **Vaga Fullstack - (Seu Nome)**
+Por favor envie um email para vagas@radeapp.com com seu CV anexado e seus links (se tiver) para **Linkedin** e **GitHub** - enviar no assunto: **Vaga Fullstack - (Seu Nome)**
